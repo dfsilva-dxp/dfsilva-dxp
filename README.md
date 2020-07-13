@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 My name is Daniel Silva from Brasil (🇧🇷). I have been working as a front-end developer since 2017 and I am currently a developer at [Grapeway Cloud Evolution] (https://www.grapeway.com.br/). Dealing with people in times of quick, light and intelligent information made me understand that success and the answers are actually in the questions. And that's how I found the way. If you are also wondering which way, I already know it well!
 Developing has become a favorite hobby.
 
