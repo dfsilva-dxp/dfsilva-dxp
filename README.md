@@ -19,3 +19,5 @@ Technologies**
 <img src="https://github-readme-stats.vercel.app/api?username=daniel-silva-dxp&show_icons=tru&theme=dracula" alt="Status" />
 
 <br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-silva-dxp&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
