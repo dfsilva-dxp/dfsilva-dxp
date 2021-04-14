@@ -7,8 +7,8 @@ In my spare time, I like to play (and watch) football (⚽️), watch movies (�
 
 Would you like to meet me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-dxp/)](https://www.linkedin.com/in/daniel-silva-dxp/)
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonxm/)](https://www.linkedin.com/in/daniel-silva-dxp/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ramonxm/)](https://www.instagram.com/daniel.dxp/)
 
 Technologies**
 
