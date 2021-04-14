@@ -16,6 +16,6 @@ Technologies**
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ramonxm&show_icons=tru&theme=dracula" alt="Status" />
+<img src="https://github-readme-stats.vercel.app/api?username=daniel-silva-dxp&show_icons=tru&theme=dracula" alt="Status" />
 
 <br>
