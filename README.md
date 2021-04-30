@@ -51,19 +51,15 @@ Se você também está se perguntando qual o caminho, eu já conheço bem!
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/daniel-silva-dxp/" /></a>
 </p>  
 
-## 💻 Technologies & Tools
+### Tecnologias que atualmente uso
 
-<p align="center">
+<p align="left">
 
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
 <img src="https://img.shields.io/badge/next%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/firebase-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/node-%234ea94b.svg?&style=for-the-badge&logo=node&logoColor=white" height="25"/>
 
 </p>
 
