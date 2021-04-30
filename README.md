@@ -40,10 +40,9 @@ Se você também está se perguntando qual o caminho, eu já conheço bem!
 <p align="left">
   No meu tempo livre, gosto de jogar e assistir futebol, assistir filmes e ler livros.
 </p>
-<p align="left">
-  ### Saiba mais em...
-</p>
 
+  ### Saiba mais em sobre mim em...
+  
 <p align="left">
   <a href="https://www.instagram.com/daniel.dxp/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https:/www.instagram.com/daniel.dxp/"/></a>
