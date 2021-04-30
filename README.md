@@ -1,12 +1,10 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2>
 
-Desenvolver tornou-se um hobby favorito e, atualmente sou pratico esse hobby na [Grapeway Cloud Evolution](https://www.grapeway.com.br).
+Meu nome é Daniel Silva e desenvolver tornou-se um hobby favorito!
+Atualmente pratico esse hobby na [Grapeway Cloud Evolution](https://www.grapeway.com.br).
 
-Lidar com pessoas em tempos de informações rápidas, leve e inteligente me fez entender que o sucesso e as respostas estão mesmo nas perguntas. 
+Acredito que lidar com pessoas em tempos de informações rápidas, leve e inteligente me faz entender que o sucesso e as respostas estão mesmo nas perguntas. 
 E foi assim que encontrei o caminho! 
-Se você também está se perguntando qual o caminho, eu já conheço bem!
-
-No meu tempo livre, gosto de jogar e assistir futebol, assistir filmes e ler livros.
 
 ### Saiba mais em sobre mim em...
   
