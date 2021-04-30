@@ -1,10 +1,4 @@
-
- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2>
-
-
-<div align="left">
-  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" />
-</div>
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2>
 
 Desenvolver tornou-se um hobby favorito e, atualmente sou pratico esse hobby na [Grapeway Cloud Evolution](https://www.grapeway.com.br).
 
@@ -12,11 +6,9 @@ Lidar com pessoas em tempos de informações rápidas, leve e inteligente me fez
 E foi assim que encontrei o caminho! 
 Se você também está se perguntando qual o caminho, eu já conheço bem!
 
-<p align="left">
-  No meu tempo livre, gosto de jogar e assistir futebol, assistir filmes e ler livros.
-</p>
+No meu tempo livre, gosto de jogar e assistir futebol, assistir filmes e ler livros.
 
-  ### Saiba mais em sobre mim em...
+### Saiba mais em sobre mim em...
   
 <p align="left">
   <a href="https://www.instagram.com/daniel.dxp/" alt="Instagram">
