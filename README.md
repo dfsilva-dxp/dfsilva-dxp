@@ -31,14 +31,12 @@ No meu tempo livre, gosto de jogar e assistir futebol, assistir filmes e ler liv
 
 </div>
 
-
-<p align="left">
 Desenvolver tornou-se um hobby favorito e, atualmente sou pratico esse hobby na [Grapeway Cloud Evolution](https://www.grapeway.com.br).
 
 Lidar com pessoas em tempos de informações rápidas, leve e inteligente me fez entender que o sucesso e as respostas estão mesmo nas perguntas. 
 E foi assim que encontrei o caminho! 
 Se você também está se perguntando qual o caminho, eu já conheço bem!
-</p>
+
 <p align="left">
   No meu tempo livre, gosto de jogar e assistir futebol, assistir filmes e ler livros.
 </p>
