@@ -33,21 +33,17 @@ No meu tempo livre, gosto de jogar e assistir futebol, assistir filmes e ler liv
 
 
 <p align="left">
-  Sou <strong>Designer gráfico</strong> e <strong>Estudante de Programação</strong>.<br />
-<strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
-e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
-</p>
+Desenvolver tornou-se um hobby favorito e, atualmente sou pratico esse hobby na [Grapeway Cloud Evolution](https://www.grapeway.com.br).
 
+Lidar com pessoas em tempos de informações rápidas, leve e inteligente me fez entender que o sucesso e as respostas estão mesmo nas perguntas. 
+E foi assim que encontrei o caminho! 
+Se você também está se perguntando qual o caminho, eu já conheço bem!
+</p>
 <p align="left">
-  💼 Habilidades: <strong>Javascript, Figma, GitHub, Versel, Photoshop.</strong>
+  No meu tempo livre, gosto de jogar e assistir futebol, assistir filmes e ler livros.
 </p>
-
-<p align="center">
-  🚀  Estudando: <strong>JavaScript, Typescript e React.</strong>
-</p>
-
 <p align="left">
-  💌 Envie uma mensagem: ⤵️
+  ### Saiba mais em...
 </p>
 
 <p align="left">
