@@ -6,7 +6,7 @@ Atualmente pratico esse hobby na [Grapeway Cloud Evolution](https://www.grapeway
 Acredito que lidar com pessoas em tempos de informações rápidas, leve e inteligente me faz entender que o sucesso e as respostas estão mesmo nas perguntas. 
 E foi assim que encontrei o caminho! 
 
-### Saiba mais em sobre mim em...
+### Saiba mais sobre mim em...
   
 <p align="left">
   <a href="https://www.instagram.com/daniel.dxp/" alt="Instagram">
