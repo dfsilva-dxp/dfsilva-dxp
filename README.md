@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2>
 
 Meu nome é Daniel Silva e desenvolver tornou-se um hobby favorito!
-Atualmente pratico esse hobby na [Grapeway Cloud Evolution](https://www.grapeway.com.br).
+Atualmente pratico esse hobby na [GWCloud.company](https://www.gwcloud.company/).
 
 Acredito que lidar com pessoas em tempos de informações rápidas, leve e inteligente me faz entender que o sucesso e as respostas estão mesmo nas perguntas. 
 E foi assim que encontrei o caminho! 
