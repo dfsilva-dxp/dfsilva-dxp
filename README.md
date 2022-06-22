@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"> Olá seja bem-vindo(a)!</h2>
+## <div style="width: 10px"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"></div> Olá seja bem-vindo(a)!</h2>
 
 Meu nome é Daniel Silva e desenvolver tornou-se um hobby favorito!
 Atualmente pratico esse hobby na [GWCloud.company](https://www.gwcloud.company/).
