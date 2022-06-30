@@ -1,5 +1,5 @@
-## <div align="center">
-  <h2>Olá seja bem-vindo(a)!</h2>
+<div align="center">
+  ## <h2>Olá seja bem-vindo(a)!</h2>
 </div>
 
 Meu nome é Daniel Silva e desenvolver tornou-se um hobby favorito!
