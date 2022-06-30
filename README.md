@@ -1,7 +1,4 @@
 ## <div align="center">
-  <div style="width:10px">
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="object-fit: cover">
-  </div> 
   <h2>Olá seja bem-vindo(a)!</h2>
 </div>
 
