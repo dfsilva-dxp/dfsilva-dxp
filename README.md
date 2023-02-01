@@ -3,7 +3,7 @@
 </div>
 
 Meu nome é Daniel Silva e desenvolver tornou-se um hobby favorito!
-Atualmente pratico esse hobby na [GWCloud.company](https://www.gwcloud.company/).
+Atualmente pratico esse hobby no [Grupo Boticário](https://www.grupoboticario.com.br/).
 
 Acredito que lidar com pessoas em tempos de informações rápidas, leve e inteligente me faz entender que o sucesso e as respostas estão mesmo nas perguntas. 
 E foi assim que encontrei o caminho! 
